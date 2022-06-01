@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Soumya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi, I'm Soumya 👋
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
