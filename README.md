@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=contact.gdsoumya.dev)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=contact@gdsoumya.dev)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gdsoumya)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gdsoumya)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/gdsoumya)
